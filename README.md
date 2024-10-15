@@ -5,6 +5,15 @@
 [![NPM Downloads](https://img.shields.io/npm/dt/html5-boilerplate.svg)](https://www.npmjs.com/package/html5-boilerplate)
 [![github-stars-image](https://img.shields.io/github/stars/h5bp/html5-boilerplate.svg?label=github%20stars)](https://github.com/h5bp/html5-boilerplate)
 
+## LEEME!
+
+Este proyecto es sólo para uso educacional. Es una copia adaptada y simplificada de
+HTML5 Boilerplate, con la misma funcionalidad pero cambiando algunos nombres y
+rutas para hacerla más fácil de usar a alumnos de Ciclos Formativos de Formación
+Profesional.
+
+## ORIGINAL README.MD
+
 HTML5 Boilerplate is a professional front-end template for building
 fast, robust, and adaptable web apps or sites.
 
