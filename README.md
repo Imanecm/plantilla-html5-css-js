@@ -12,6 +12,9 @@ HTML5 Boilerplate, con la misma funcionalidad pero cambiando algunos nombres y
 rutas para hacerla más fácil de usar a alumnos de Ciclos Formativos de Formación
 Profesional.
 
+Consultar: https://stackoverflow.com/questions/65981521/how-to-use-npm-start-to-open-localhost
+Para saber cómo ejecutar un servidor web en local usando node (requiere librerías Node)
+
 ## ORIGINAL README.MD
 
 HTML5 Boilerplate is a professional front-end template for building
